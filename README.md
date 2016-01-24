@@ -13,3 +13,5 @@
     the assorter to obtain a ranking and pick the class label predicted by the rectifier. Intuitively, using ensemble methods such as a 
     bagging and boosting on a high bias classifier as the assorter followed by a high variance classifier as the rectifier would enhance 
     performance.
+
+##### Please find the REPORT.pdf for more details
